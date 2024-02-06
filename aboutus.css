@@ -1,0 +1,97 @@
+.nav{
+  text-align: center;
+}
+
+
+ul {
+  
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-size: 100px;
+  background-color: white;
+  border-width: 100px;
+  text-align: center;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-orientation: 70px;
+  font-family: sans-serif;
+  font-size: 50px;
+  text-size: 100px;
+  padding: 20px 16px;
+  text-decoration: none;
+  background-color: white;
+}
+
+li a:hover {
+  background-color:red;
+}
+
+
+h1{
+   display: block;
+  color: black;
+  text-align: center;
+  text-orientation: 70px;
+  font-family: sans-serif;
+  font-size: 80px;
+  text-size: 100px;
+  padding: 20px 16px;
+  text-decoration: none;
+  background-color:white;
+
+}
+h2{
+  text-align: center;
+  text-color: red;
+   text-decoration-style: solid;
+}
+
+
+
+
+
+
+
+
+
+p{
+     display: block;
+  color: black;
+  text-align: center;
+  text-orientation: 70px;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-size: 100px;
+  padding: 20px 16px;
+  text-decoration: none;
+  background-color:white;
+
+
+}
+.pic{
+   image size: 100px;
+
+
+}
+.icon{
+      text-size: large;
+      font-family: sans-serif;
+      font-size: 40px;
+}
+.footer{
+    text-align: center;
+}
+.google{
+  text-align: center;
+}
+
+
